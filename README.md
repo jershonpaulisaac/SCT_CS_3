@@ -30,7 +30,7 @@ Strength: Strong (80.0%)
    https://github.com/jershonpaulisaac/SCT_CS_3.git
 2.Run the script:
 ```bash
-python password_checker.py
+python passcheck.py
 ```
 
 ## 📖 About
