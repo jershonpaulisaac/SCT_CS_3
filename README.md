@@ -27,8 +27,7 @@ Strength: Strong (80.0%)
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
-   cd password-strength-checker
+   https://github.com/jershonpaulisaac/SCT_CS_3.git
 2.Run the script:
 ```bash
 python password_checker.py
