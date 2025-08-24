@@ -28,11 +28,11 @@ Strength: Strong (80.0%)
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/password-strength-checker.git
-   cd password-strength-checker
+   cd password-strength-checker```
 2.Run the script:
 ```bash
 python password_checker.py
-
+```
 
 #📖 About
 
